@@ -11,7 +11,7 @@ I'm Juliana Micheal, A Student at Altschool of Software Engineering with experie
 - 🌱 I’m currently learning Html, Css, JavaScript, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing julianamicheal06@gmail.com.
+- 📫 You can view my resume [https://github.com/JulianaMicheal/Assignment1](#) and contact me by emailing julianamicheal06@gmail.com.
 
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianaMicheal&show_icons=true&include_all_commits=true&hide_border=true" alt="JulianaMicheal's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMicheal&langs_count=8&layout=compact&hide_border=true" alt="JulianaMicheal's GitHub stats" /> |
