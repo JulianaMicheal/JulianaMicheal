@@ -4,13 +4,23 @@
 
 I’m a Computer Science graduate focused on backend development and building reliable, practical web applications.
 
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juliana-portfolio-s9v9.onrender.com) 
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR-RESUME-LINK)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianamicheal06@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Micheal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-michael-8060191b1)
-
+<p>
+  <a href="https://juliana-portfolio-s9v9.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR-RESUME-LINK">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:julianamicheal06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juliana-michael-8060191b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Juliana%20Micheal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
