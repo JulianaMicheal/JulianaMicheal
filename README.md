@@ -17,7 +17,7 @@ I’m a Computer Science graduate focused on backend development and building re
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juliana-michael-8060191b1">
+  <a href="https://linkedin.com/in/juliana-micheal">
     <img src="https://img.shields.io/badge/LinkedIn-Juliana%20Micheal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
